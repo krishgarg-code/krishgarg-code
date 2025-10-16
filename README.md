@@ -1,5 +1,24 @@
-# 💫 About Me:
-👋 Hey there! I'm Krish Garg<br><br>💻 Aspiring Technologist | AI & Web Enthusiast<br>🚀 Currently exploring AI, Web Development, and Emerging Tech<br>📚 Learning Deep Learning, Full-Stack Development & Cloud Computing<br>🛠️ Working on cool projects involving AI and automation<br>💡 Love solving algorithmic problems & optimizing code<br>🎯 Passionate about building scalable & innovative solutions<br>🎮 Fun fact: I enjoy beta testing new tech & experimenting with AI models!<br><br>📫 Reach out: krishg0150@gmail.com<br><br>
+<!-- 🧠 README by Krish Garg | Hacker + AI Dev Aesthetic -->
+
+<!-- Pixel-art banner -->
+<p align="center">
+  <img src="https://i.ibb.co/n6ZxRhV/dev-banner.gif" width="800" alt="developer banner"/>
+</p>
+
+<h1 align="center">💻 Hey 👨‍💻 I'm <span style="color:#00FFFF;">Kɾιѕн Gαɾɢ</span> | AI & Web Dev Wizard ⚡</h1>
+
+<p align="center">
+  <em>🚀 Building the future with AI & Code | Crafting scalable, intelligent, and creative systems</em>
+</p>
+
+---
+
+### 🧠 Hacker Intro
+
+> Initializing profile...
+> Connecting to GitHub mainframe... ✅
+> Loading KrishGarg-code modules... ⚙️
+> Access granted 👨‍💻
 
 
 ## 🌐 Socials:
