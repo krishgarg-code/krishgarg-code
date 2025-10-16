@@ -13,12 +13,12 @@
 
 ---
 
-### 🧠 Hacker Intro
 
-> Initializing profile...
-> Connecting to GitHub mainframe... ✅
-> Loading KrishGarg-code modules... ⚙️
-> Access granted 👨‍💻
+
+> Initializing profile... <br>
+> Connecting to GitHub mainframe... ✅ <br>
+> Loading KrishGarg-code modules... ⚙️<br>
+> Access granted 👨‍💻<br>
 
 
 ## 🌐 Socials:
