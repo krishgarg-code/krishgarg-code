@@ -28,27 +28,12 @@
 
   <hr style="border: 1px solid #00ffff; margin: 15px 0; width: 80%;"/>
 
-  <pre style="
-    background: rgba(0, 0, 0, 0.4);
-    color: #39ff14;
-    text-align: left;
-    display: inline-block;
-    padding: 15px 25px;
-    border-radius: 10px;
-    font-size: 0.95rem;
-    box-shadow: inset 0 0 15px rgba(0, 255, 0, 0.3);
-  ">
-> Initializing profile... <br>
-> Connecting to GitHub mainframe... ✅ <br>
-> Loading KrishGarg-code modules... ⚙️ <br>
-> Access granted 👨‍💻 <br>
-  </pre>
-</div>
-
+  
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@krish.garg_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@krishgarg1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishg0150@gmail.com) 
+
 
 # 💻 Tech Stack:
 
@@ -123,14 +108,34 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=krishgarg-code&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=krishgarg-code&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishgarg-code&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🧩 Contribution Graphs
 
+### 🕹️ Snake Game — Watch My Contributions Come Alive!
+![GitHub Snake Light](https://github.com/krishgarg-code/krishgarg-code/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/krishgarg-code/krishgarg-code/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+> 🐍 The snake devours my commits and evolves with every push!
+
+---
+
+### 📈 Activity Graph — My GitHub Pulse
+![Krish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishgarg-code&theme=react-dark&hide_border=true&area=true&custom_title=🔥%20Contribution%20Graph%20&bg_color=0D1117&color=00FFFF&line=39FF14&point=FFFFFF)
+
+> ⚡ The more I build, the more vibrant this graph becomes.
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=krishgarg-code&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=krishgarg-code&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishgarg-code&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=krishgarg-code&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=krishgarg-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![An image of @krishgargcode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishgargcode)](https://holopin.io/@krishgargcode)
+
+
+<p align="center"> <a href="mailto:krishg0150@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/krishgarg1"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/krish.garg_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a> <a href="https://holopin.io/@krishgargcode"><img src="https://img.shields.io/badge/Holopin-Badges-blueviolet?logo=holopin&logoColor=white" /></a> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
