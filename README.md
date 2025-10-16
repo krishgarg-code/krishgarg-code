@@ -38,7 +38,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
-
 ### 💻 Frontend & Frameworks  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -98,15 +97,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-## 🧩 Contribution Graphs
 
-### 🕹️ Snake Game — Watch My Contributions Come Alive!
-![GitHub Snake Light](https://github.com/krishgarg-code/krishgarg-code/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/krishgarg-code/krishgarg-code/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-> 🐍 The snake devours my commits and evolves with every push!
-
----
 
 ### 📈 Activity Graph — My GitHub Pulse
 ![Krish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishgarg-code&theme=react-dark&hide_border=true&area=true&custom_title=🔥%20Contribution%20Graph%20&bg_color=0D1117&color=00FFFF&line=39FF14&point=FFFFFF)
