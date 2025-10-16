@@ -5,20 +5,46 @@
   <img src="https://i.ibb.co/n6ZxRhV/dev-banner.gif" width="800" alt="developer banner"/>
 </p>
 
-<h1 align="center">💻 Hey 👨‍💻 I'm <span style="color:#00FFFF;">Kɾιѕн Gαɾɢ</span> | AI & Web Dev Wizard ⚡</h1>
+<!-- Banner Section -->
+<div align="center" style="
+  background: linear-gradient(135deg, #000428, #004e92);
+  color: #00ffff;
+  font-family: 'Courier New', monospace;
+  border: 2px solid #00ffff;
+  border-radius: 12px;
+  padding: 20px 40px;
+  max-width: 900px;
+  margin: 0 auto;
+  box-shadow: 0 0 25px rgba(0, 255, 255, 0.5);
+">
 
-<p align="center">
-  <em>🚀 Building the future with AI & Code | Crafting scalable, intelligent, and creative systems</em>
-</p>
+  <h1 style="font-size: 2.2rem; margin-bottom: 10px;">
+    💻 Hey 👨‍💻 I'm <span style="color:#ff00ff;">Kɾιѕн Gαɾɢ</span> | <span style="color:#00ffff;">AI & Web Dev Wizard ⚡</span>
+  </h1>
 
----
+  <p style="font-size: 1.1rem; color: #b3ffff;">
+    🚀 Building the future with AI & Code | Crafting scalable, intelligent, and creative systems
+  </p>
 
+  <hr style="border: 1px solid #00ffff; margin: 15px 0; width: 80%;"/>
 
-
+  <pre style="
+    background: rgba(0, 0, 0, 0.4);
+    color: #39ff14;
+    text-align: left;
+    display: inline-block;
+    padding: 15px 25px;
+    border-radius: 10px;
+    font-size: 0.95rem;
+    box-shadow: inset 0 0 15px rgba(0, 255, 0, 0.3);
+  ">
 > Initializing profile... <br>
 > Connecting to GitHub mainframe... ✅ <br>
-> Loading KrishGarg-code modules... ⚙️<br>
-> Access granted 👨‍💻<br>
+> Loading KrishGarg-code modules... ⚙️ <br>
+> Access granted 👨‍💻 <br>
+  </pre>
+</div>
+
 
 
 ## 🌐 Socials:
