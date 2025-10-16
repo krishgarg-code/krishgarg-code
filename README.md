@@ -15,4 +15,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=krishgarg-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![An image of @krishgargcode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishgargcode)](https://holopin.io/@krishgargcode)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
