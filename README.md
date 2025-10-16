@@ -6,20 +6,10 @@
 </p>
 
 <!-- Banner Section -->
-<div align="center" style="
-  background: linear-gradient(135deg, #000428, #004e92);
-  color: #00ffff;
-  font-family: 'Courier New', monospace;
-  border: 2px solid #00ffff;
-  border-radius: 12px;
-  padding: 20px 40px;
-  max-width: 900px;
-  margin: 0 auto;
-  box-shadow: 0 0 25px rgba(0, 255, 255, 0.5);
-">
+
 
   <h1 style="font-size: 2.2rem; margin-bottom: 10px;">
-    💻 Hey 👨‍💻 I'm <span style="color:#ff00ff;">Kɾιѕн Gαɾɢ</span> | <span style="color:#00ffff;">AI & Web Dev Wizard ⚡</span>
+    💻 Hey 👨‍💻 I'm <span style="color:#ff00ff;">krish garg</span> | <span style="color:#00ffff;">AI & Web Dev Wizard ⚡</span>
   </h1>
 
   <p style="font-size: 1.1rem; color: #b3ffff;">
@@ -136,6 +126,8 @@
 
 
 
-<p align="center"> <a href="mailto:krishg0150@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/krishgarg1"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/krish.garg_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a> <a href="https://holopin.io/@krishgargcode"><img src="https://img.shields.io/badge/Holopin-Badges-blueviolet?logo=holopin&logoColor=white" /></a> </p>
+<p align="center"> <a href="mailto:krishg0150@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/krishgarg1"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/krish.garg_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a> 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![An image of @krishgargcode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishgargcode)](https://holopin.io/@krishgargcode)
+
