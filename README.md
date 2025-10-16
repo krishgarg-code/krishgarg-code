@@ -186,7 +186,7 @@ Great things take time; persistence conquers all."</i>
 
 
 <!-- # Some Open Source Things -->
-[![An image of @krishgargcode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishgargcode)](https://holopin.io/@krishgargcode)
+
 
 
 <div align="center">
