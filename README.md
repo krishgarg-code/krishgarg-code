@@ -1,6 +1,7 @@
 <!-- 🧠 README by Krish Garg | Hacker + AI Dev Aesthetic -->
 
-<h1 align="center">Hey <img src="https://i.ibb.co/0mBy4tP/glitch-hacker-banner.gif" alt="Hacker Banner" width="10 I'm Krish Garg</h1>
+<h1 align="center">Hey <img src="https://i.ibb.co/0mBy4tP/glitch-hacker-banner.gif" alt="Hacker Banner" width="100%" />
+ I'm Krish Garg</h1>
 <h3 align="center">AI & Web Dev Wizard ⚡</h3>
 
 <img src="https://i.ibb.co/0mBy4tP/glitch-hacker-banner.gif" alt="Hacker Banner" width="100%" />
@@ -192,4 +193,139 @@ Great things take time; persistence conquers all."</i>
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
 
+<!-- Badge Definitions -->
+[js-badge]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[js-link]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+[python-badge]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[python-link]: https://www.python.org/
+
+[powershell-badge]: https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
+[powershell-link]: https://learn.microsoft.com/en-us/powershell/
+
+[bash-badge]: https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
+[bash-link]: https://www.gnu.org/software/bash/
+
+[html-badge]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[html-link]: https://developer.mozilla.org/en-US/docs/Web/HTML
+
+[css-badge]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[css-link]: https://developer.mozilla.org/en-US/docs/Web/CSS
+
+[react-badge]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-link]: https://react.dev/
+
+[tailwind-badge]: https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[tailwind-link]: https://tailwindcss.com/
+
+[nextjs-badge]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white
+[nextjs-link]: https://nextjs.org/
+
+[node-badge]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
+[node-link]: https://nodejs.org/
+
+[express-badge]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+[express-link]: https://expressjs.com/
+
+[django-badge]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+[django-link]: https://www.djangoproject.com/
+
+[fastapi-badge]: https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
+[fastapi-link]: https://fastapi.tiangolo.com/
+
+[aws-badge]: https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white
+[aws-link]: https://aws.amazon.com/
+
+[azure-badge]: https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white
+[azure-link]: https://azure.microsoft.com/
+
+[firebase-badge]: https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
+[firebase-link]: https://firebase.google.com/
+
+[netlify-badge]: https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
+[netlify-link]: https://www.netlify.com/
+
+[vercel-badge]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+[vercel-link]: https://vercel.com/
+
+[mysql-badge]: https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white
+[mysql-link]: https://www.mysql.com/
+
+[mongodb-badge]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+[mongodb-link]: https://www.mongodb.com/
+
+[supabase-badge]: https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white
+[supabase-link]: https://supabase.com/
+
+[postgres-badge]: https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+[postgres-link]: https://www.postgresql.org/
+
+[drizzle-badge]: https://img.shields.io/badge/Drizzle-FFD700?style=for-the-badge&logo=drizzle&logoColor=black
+[drizzle-link]: https://orm.drizzle.team/
+
+[prisma-badge]: https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white
+[prisma-link]: https://www.prisma.io/
+
+[neon-badge]: https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black
+[neon-link]: https://neon.tech/
+
+[gha-badge]: https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
+[gha-link]: https://github.com/features/actions
+
+[git-badge]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+[git-link]: https://git-scm.com/
+
+[postman-badge]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+[postman-link]: https://www.postman.com/
+
+[github-badge]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+[github-link]: https://github.com/
+
+[tf-badge]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+[tf-link]: https://www.tensorflow.org/
+
+[pt-badge]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+[pt-link]: https://pytorch.org/
+
+[numpy-badge]: https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+[numpy-link]: https://numpy.org/
+
+[pandas-badge]: https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+[pandas-link]: https://pandas.pydata.org/
+
+[figma-badge]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+[figma-link]: https://www.figma.com/
+
+[blender-badge]: https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white
+[blender-link]: https://www.blender.org/
+
+[ps-badge]: https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white
+[ps-link]: https://www.adobe.com/products/photoshop.html
+
+[adobe-badge]: https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white
+[adobe-link]: https://www.adobe.com/
+
+[canva-badge]: https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white
+[canva-link]: https://www.canva.com/
+
+[unreal-badge]: https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white
+[unreal-link]: https://www.unrealengine.com/
+
+[notion-badge]: https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
+[notion-link]: https://www.notion.so/
+
+[wp-badge]: https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+[wp-link]: https://wordpress.org/
+
+[powerbi-badge]: https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
+[powerbi-link]: https://powerbi.microsoft.com/
+
+[meta-badge]: https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white
+[meta-link]: https://about.meta.com/
+
+[xbox-badge]: https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white
+[xbox-link]: https://www.xbox.com/
+
+[epic-badge]: https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white
+[epic-link]: https://www.epicgames.com/
 
