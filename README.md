@@ -4,7 +4,7 @@
  I'm Krish Garg</h1>
 <h3 align="center">AI & Web Dev Wizard ⚡</h3>
 
-<img src="https://i.ibb.co/0mBy4tP/glitch-hacker-banner.gif" alt="Hacker Banner" width="100%" />
+[![An image of @krishgargcode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishgargcode)](https://holopin.io/@krishgargcode)
 
 <!-- Banner Section -->
 
@@ -185,7 +185,7 @@ Great things take time; persistence conquers all."</i>
 </picture>
 
 
-# Some Open Source Things
+<!-- # Some Open Source Things -->
 [![An image of @krishgargcode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishgargcode)](https://holopin.io/@krishgargcode)
 
 
